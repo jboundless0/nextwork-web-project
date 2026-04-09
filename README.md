@@ -35,7 +35,7 @@ Here’s what I’m using for this project:
 <br>
 
 ## Setup
-To get this project up and running on your local machine, follow these steps:
+To get this project up and running on yourgit  local machine, follow these steps:
 
 1. Clone the repository:
     ```bash
@@ -54,7 +54,7 @@ To get this project up and running on your local machine, follow these steps:
 
 ## Contact
 If you have any questions or comments about the NextWork Web Project, please contact:
-Jubilee - [Your Email](mailto:aremujubilee@gmail.com)
+Jubilee - [aremujubilee@gmail.com](mailto:aremujubilee@gmail.com)
 
 <br>
 
