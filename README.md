@@ -35,7 +35,7 @@ Here’s what I’m using for this project:
 <br>
 
 ## Setup
-To get this project up and running on yourgit  local machine, follow these steps:
+To get this project up and running on your local machine, follow these steps:
 
 1. Clone the repository:
     ```bash
